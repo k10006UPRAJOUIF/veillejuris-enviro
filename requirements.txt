@@ -1,0 +1,12 @@
+Django
+Django REST framework
+Celery
+redis
+channels
+requests
+beautifulsoup4
+sendgrid
+python-dotenv
+pytz
+gunicorn
+pytest
