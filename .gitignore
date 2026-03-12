@@ -1,0 +1,13 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+python_env/
+
+# Node.js
+node_modules/
+yarn-error.log
+package-lock.json
+npm-debug.log
